@@ -5,7 +5,7 @@
     <a href="https://www.youtube.com/hashtag/friendscraftsmp"><img src="https://img.shields.io/static/v1?style=for-the-badge&message=YouTube&color=FF0000&logo=YouTube&logoColor=FFFFFF&label=" alt="FSC SMP" />
     <a href="https://www.youtube.com/watch?v=UsnUbgpanw0"><img src="https://img.shields.io/static/v1?style=for-the-badge&message=Minecraft&color=62B47A&logo=Minecraft&logoColor=FFFFFF&label=" alt="aaaa" /></a>
     <a href="https://www.debian.org/"><img src="https://img.shields.io/static/v1?style=for-the-badge&message=Debian&color=A81D33&logo=Debian&logoColor=FFFFFF&label=" alt="dddd"></a>
-        <br><br><br>
+        <br>
 <div align="center">
         เช็คข้อมูลเซิฟเวอร์ได้ที่ปุ่มตรงนี้เลยน้าา
         <a>&nbsp;</a>
