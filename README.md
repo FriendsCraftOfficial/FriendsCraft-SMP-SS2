@@ -5,8 +5,16 @@
     <a href="https://www.youtube.com/hashtag/friendscraftsmp"><img src="https://img.shields.io/static/v1?style=for-the-badge&message=YouTube&color=FF0000&logo=YouTube&logoColor=FFFFFF&label=" alt="FSC SMP" />
     <a href="https://www.youtube.com/watch?v=UsnUbgpanw0"><img src="https://img.shields.io/static/v1?style=for-the-badge&message=Minecraft&color=62B47A&logo=Minecraft&logoColor=FFFFFF&label=" alt="aaaa" /></a>
     <a href="https://www.debian.org/"><img src="https://img.shields.io/static/v1?style=for-the-badge&message=Debian&color=A81D33&logo=Debian&logoColor=FFFFFF&label=" alt="dddd"></a>
+        <br><br><br>
+<div align="center">
+        เช็คข้อมูลเซิฟเวอร์ได้ที่ปุ่มตรงนี้เลยน้าา
+        <a>&nbsp;</a>
+        <br>
+<a href="https://github.com/PPekKunGz/FriendsCraft-SMP-SS2/blob/main/FriendsCraftSMPInfo.md"><img src="https://img.shields.io/appveyor/build/gruntjs/grunt?label=INFO%20SERVER&style=for-the-badge" alt="Info"/></a>
+<a href="https://github.com/PPekKunGz/FriendsCraft-SMP-SS2/blob/main/FriendsCraftSMPLog.md"><img src="https://img.shields.io/nodeping/uptime/jkiwn052-ntpp-4lbb-8d45-ihew6d9ucoei?label=LAST%20UPDATE&style=for-the-badge" alt="Update"/></a> 
+        
   </p>
-
+</div>
 
 # 🪄 ข้อมูล/สปอนเซอร์ | SPONSER SERVER
     
@@ -20,6 +28,8 @@
 </a>
   <br><br><br>
 <a target="_blank" href="https://www.facebook.com/limitrack.thailand">
+  <img src="https://cdn.discordapp.com/attachments/966293767546085419/969954022045921300/pr_limitrack_is_your_baremetal_w500x281.jpg" align="center" width="300" height="150" />
+    <a target="_blank" href="https://www.facebook.com/limitrack.thailand">
   <img src="https://cdn.discordapp.com/attachments/966293767546085419/969954022045921300/pr_limitrack_is_your_baremetal_w500x281.jpg" align="center" width="300" height="150" />
 </a>
 </div>    
