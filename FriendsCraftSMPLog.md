@@ -1,111 +1,115 @@
-<p align="center">
-    <a href="https://discord.gg/9HFENuTPnm"><img src="https://img.shields.io/static/v1?style=for-the-badge&message=Discord&color=5865F2&logo=Discord&logoColor=FFFFFF&label=" alt="Discord server"/></a>
-    <a href="https://www.youtube.com/hashtag/friendscraftsmp"><img src="https://img.shields.io/static/v1?style=for-the-badge&message=YouTube&color=FF0000&logo=YouTube&logoColor=FFFFFF&label=" alt="FSC SMP" />
-    <a href="https://www.youtube.com/watch?v=UsnUbgpanw0"><img src="https://img.shields.io/static/v1?style=for-the-badge&message=Minecraft&color=62B47A&logo=Minecraft&logoColor=FFFFFF&label=" alt="aaaa" /></a>
-    <a href="https://www.debian.org/"><img src="https://img.shields.io/static/v1?style=for-the-badge&message=Debian&color=A81D33&logo=Debian&logoColor=FFFFFF&label=" alt="dddd"></a>
-  </p>
-
-  
-# FRIENDSCRAFT SMP SEASON 2
-* Minecraft Version : 1.16.5
-* Border : 5000 Block
-* Server : Fabric
-* Seed : 1.16.5 : `-4719294108825905711`
-
-------------------------------------------------------------------
-
 # ข้อมูลคร่าวๆ | FRIENDSCRAFT SMP SEASON 2 - Logs
-                                         Character & System UPDATE :: FIXED
-[กดเพื่อดูอัพเดทระบบความสมดุล & ตัวละคร](https://gist.github.com/PPekKunGz/5a51a7133c2120b8994746f9c8646773)
+[กดเพื่อกลับไปหน้าแรก](https://gist.github.com/PPekKunGz/da5bd87c7de960fe194024b866a1c4e8)
 
-<div align="center">
-<a target="_blank" href="https://www.youtube.com/hashtag/friendscraftsmp">
-  <img src="https://cdn.discordapp.com/attachments/966293767546085419/966293860819013642/LOGOsmp.png" align="center" width="200" height="200" />
-</a>
-<a target="_blank" href="https://www.twitch.tv/ununyy12">
-  <img src="https://cdn.discordapp.com/attachments/965961062610509867/980457577999650816/dad.png" align="center" width="140" height="150" />
-</a>
-  <br><br><br>
-<a target="_blank" href="https://www.facebook.com/limitrack.thailand">
-  <img src="https://cdn.discordapp.com/attachments/966293767546085419/969954022045921300/pr_limitrack_is_your_baremetal_w500x281.jpg" align="center" width="300" height="150" />
-</a>
-</div>
+## 📢 *UPDATE* **04/27/2022**
 
-------------------------------------------------------------------
-
-## 🖥️ Sponser DDC - Dedicated Servers 🗂️
+- แก้ชื่อ **TAG TEAM** ไม่หาย
 ```
-📝ขอขอบคุณ "สปอนเซอร์หลัก"  จาก Limitrack - ลิมิแทรค ด้วยนะครับ🧪
-          📢Limitrack - ลิมิแทรค✅
-ใครที่สนใจเครื่องเซิฟเวอร์เร็วแรง และสุดคุ้ม หรือ บริการต่างๆ
-เกี่ยวกับ Dedicated Server ประสิทธิภาพสูง ราคาคุ้มค่า ที่สุดในประเทศไทย
-💸| Fanpage : https://www.facebook.com/limitrack.thailand
-🌐| Website : https://limitrack.com/
+  BZKBoss
+  _NeeChaNz_
+  KiwSoHardZ_
 ```
-## 🟢 System Information - CPU/RAM 🏡
+- **ปรับตัวละคร**
+
+`✅ Horseling _xkaCryz_ ✅`
 ```
-🌐 CPU : Intel(R) Core(TM) i3-10105 CPU @ 3.70GHz
-🌐 RAM : DDR4 32GB non-ecc
-🌐 M.2 : NVMe SSD 256GB
-🌐 OS  : Debian GNU/Linux 11 / JVM Oracle
+  ปรับกินข้าว + เมล็ดข้าว ให้เพิ่มเยอะขึ้น
+  แก้กระโดดสูงแล้วโดนดาเมจ // แก้ไม่ได้
 ```
-------------------------------------------------------------------
+`✅ Size Changer - SABALLS ✅`
+```
+  ปรับขนาดเป็น 0.3
+```
+`✅ TheBat - PPekKunGz,ItBigBoy ✅`
+```
+  เอาบัพ sun_scare ตอนกลางวันออก
+```
+`✅ Undeads Controller - KiwSoHardZ_ ✅`
+```
+  แลกของ npc แล้วของแพง
+  เวลาเราช่วยมันกลายเปนซอมบี้ยังไม่ลดราคา
+  ตอนraidบุกแล้วตีชนะก็ไม่ลดราคา
+```
+## 📢 *UPDATE* **05/12/2022**
+- **ปรับตัวละคร**
 
-### 🔐 Private Datapacks FSC 🔐
-   * FSC Origin
-   * FSC-SMP Datapack
+`✅ Dark Creature - _EArTH_ ✅`
+```
+  ปรับให้สามารถนอนได้ [สงสารโดนแต่แฟนท่อม]
+  สามารถโดนแดดได้แล้ว
+```
+`✅ TheBat - PPekKunGz,ItBigBoy ✅`
+```
+  เพิ่มบัพตอนกลางวัน
+  สามารถบินตอนกลางวันได้
+```
+`✅ Dragon Origin - _1209_ ✅`
+```
+  ตกจากที่สูงไม่มี DMG
+  (เนื่องจากบัคเยอะมาก เกิดขึ้นในสตอรี่ย์ด้วย)
+```
+`✅ Size Changer - SABALLS✅`
+```
+  ปรับเพิ่ม speed ร่างเล็ก +0.02
+```
+## 📢 *UPDATE* **05/16/2022**
+- **ปรับตัวละคร**
 
-### 🧪 Public Datapacks FSC 🧪
-   * Just Sit V2
-   * AG-LagClear v3
-   * More Mob Heads v2.9.4
-   * Better Hopper
+`✅ TheBat - PPekKunGz,ItBigBoy ✅`
+```
+  แก้บัพหายตอนกลางวัน
+```
+`✅ WareWolf - KANETIONZ,PORZAGAMER ✅`
+```
+  ปรับขนาดตอนร่างใหญ่ - Over นิดหน่อยๆ
+  เพิ่มบัพตอนกลางคืน
+  ปรับหัวใจเป็น 10 ดวง - จาก 7-8 ดวง
+```
+## 📢 *UPDATE* **05/22/2022**
+- 🖥️ **อัพเดทระบบใหม่** 🗂️
+```
+  + เพิ่มระบบลบของเข้ามา ระบบจะทำการลบขยะทุกๆ ( 30M )
+  - วันไหนมีสตอรี่ย์จะทำการปิดระบบนี้ออกไป
+  
+🗑️ ไอเท็มที่จะถูกลบหลังจากทุกๆ 30M 🚮
+  + Item
+  + Arrows
+  + Fireballs
+  + Boats
+  + Falling Blocks
+  + Firework Rockets
+  + Small Fireballs
+  + Snowballs
+  + Spectral Arrows
+  + Shulker Bullets
+  + Tridents
+  + Llama Spits
+```
+## 📢 *UPDATE* **05/22/2022**
+- 🖥️ **อัพเดทระบบใหม่** 🗂️
 
-### 🔐 Private Mods 🗂️
-   * FSC-Voice Mod
+```
+  🎙️ ระบบไมค์ใหม่ที่สุดจะเฟี้ยวฟ้าวมะพร้าวแก้ว 🎤
+  + สามารถปรับวงไมค์ได้ด้วย
+  มีให้ระยะตั้งแต่ 4,8,16,24 บล็อกกันเลยทีเดี่ยว
 
-### Client Mods :
-- [Farsight](https://www.curseforge.com/minecraft/mc-mods/farsight)
-- [Lithium](https://www.curseforge.com/minecraft/mc-mods/lithium)
-- [Fabric API](https://www.curseforge.com/minecraft/mc-mods/fabric-api)
-- [CraftPresence](https://www.curseforge.com/minecraft/mc-mods/craftpresence)
-- [Antique Atlas](https://www.curseforge.com/minecraft/mc-mods/antique-atlas/files)
-- [CursedOrigins](https://www.curseforge.com/minecraft/mc-mods/cursedorigins)
-- [Daemonic](https://www.curseforge.com/minecraft/mc-mods/daemonic/files?sort=-game-version) //**I think he removed it.**
-- [Emotecraft](https://www.curseforge.com/minecraft/mc-mods/emotecraft)
-- [Extra Origins](https://www.curseforge.com/minecraft/mc-mods/extra-origins)
-- [Fabric Language Kotlin](https://www.curseforge.com/minecraft/mc-mods/fabric-language-kotlin)
-- [Haema](https://www.curseforge.com/minecraft/mc-mods/haema)
-- [Mob Origins](https://www.curseforge.com/minecraft/mc-mods/mob-origins)
-- [Neutral Animals](https://www.curseforge.com/minecraft/mc-mods/neutral-animals)
-- [OptiFabric](https://www.curseforge.com/minecraft/mc-mods/optifabric)
-- [OptiFine](https://optifine.net/downloads)
-- [Origins](https://www.curseforge.com/minecraft/mc-mods/origins)
-- [Origins: Classes](https://www.curseforge.com/minecraft/mc-mods/origins-classes)
-- [Expanded Origins](https://www.curseforge.com/minecraft/mc-mods/origins-plus)
-- [Pehkui](https://www.curseforge.com/minecraft/mc-mods/pehkui)
-- [Sit](https://www.curseforge.com/minecraft/mc-mods/sit-fabric)
-- [Slime Origin](https://www.curseforge.com/minecraft/mc-mods/slime-origin)
-- [TabTPS](https://github.com/jpenilla/TabTPS)
-- [TooManyOrigins](https://www.curseforge.com/minecraft/mc-mods/toomanyorigins)
+  📦 อัพเดทระบบฆ่ามอนส์แล้วได้หัว 🎁
+  + ฆ่ามอนส์เตอร์โอกาส DROP ทุกตัว 0.1%
+  หรือแล้วแต่ดวงตัวเราเอง
+  - ไม่ DROP คือ Creeper, Wither Ske, Skele, Zombie
+  เพราะมอนส์พวกนี้มีวิธีหาได้อยู่แล้วตามระบบเกม
+```
+## 📢 *UPDATE* **06/06/2022**
+- 🧪 **ปรับตัวละคร** 🧪 & 🖥️ **ระบบ** 🗂️
+```
+:::::::::::::::::::::::::::::::::::::::
+✅ Dolphin Origin :: แก้บัคว่ายน้ำจากปกติ + ทำให้ว่ายน้ำเร็วขึ้น
+:::
+- เอาสุดยอด Hopper ออกเนื่องจากทำให้เซิฟเวอร์ของเราแลคได้ดีเลยย
+- เอาระบบ Hopper คัดแยกของออก
+- เอาระบบ Hopper ดูดของออก
 
-### Server-Side Mods :
-- [WorldEdit](https://www.curseforge.com/minecraft/mc-mods/worldedit)
-- [Inv View](https://www.curseforge.com/minecraft/mc-mods/inv-view)
-- [Vanish](https://www.curseforge.com/minecraft/mc-mods/vanish)
-- [MiniMOTD](https://www.curseforge.com/minecraft/mc-mods/minimotd-fabric)
-- [Performant](https://www.curseforge.com/minecraft/mc-mods/performant)
-- [Lithium](https://www.curseforge.com/minecraft/mc-mods/lithium)
-- [Limited Chunkloading](https://www.curseforge.com/minecraft/mc-mods/limited-chunkloading)
-- [LazyDFU](https://www.curseforge.com/minecraft/mc-mods/lazydfu)
-- [Ferrite Core](https://www.curseforge.com/minecraft/mc-mods/ferritecore-fabric)
-- [Krypton](https://www.curseforge.com/minecraft/mc-mods/krypton)
-- [Phosphor](https://github.com/CaffeineMC/phosphor-fabric)
-- [Fast Furnace](https://www.curseforge.com/minecraft/mc-mods/fast-furnace-for-fabric)
-- [Dynamic View](https://www.curseforge.com/minecraft/mc-mods/dynamic-view)
-- [Spark](https://www.curseforge.com/minecraft/mc-mods/spark)
-- [Connectivity](https://www.curseforge.com/minecraft/mc-mods/connectivity)
-- [World Specific View Distance](https://modrinth.com/mod/worldspecificviewdistance)
-
-
-------------------------------------------------------------------
++ เรื่องระบบที่จะเพิ่มเข้ามาจะทำการมาแจ้งอีกทีเนื่องจากมีปัญหาหลายอย่างเกิดขึ้น
+Enjoy to play :)
+::::::::::::::::::::::::::::::::::::::
+```
