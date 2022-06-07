@@ -8,7 +8,7 @@
   </p>
 
 
-# 🪄 ข้อมูล/สปอนเซอร์ | FRIENDSCRAFT SMP - SPONSER SERVER
+# 🪄 ข้อมูล/สปอนเซอร์ | SPONSER SERVER
     
 <div align="center">
 <a target="_blank" href="https://www.youtube.com/hashtag/friendscraftsmp">
