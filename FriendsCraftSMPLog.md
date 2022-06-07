@@ -8,7 +8,7 @@
       
 
 # ข้อมูลคร่าวๆ | FRIENDSCRAFT SMP SEASON 2 - Logs
-[กดเพื่อกลับไปหน้าแรก](https://gist.github.com/PPekKunGz/da5bd87c7de960fe194024b866a1c4e8)
+[กดเพื่อกลับไปหน้าแรก](https://github.com/PPekKunGz/FriendsCraft-SMP-SS2/blob/main/FriendsCraftSMPInfo.md)
 
 ## 📢 *UPDATE* **04/27/2022**
 
