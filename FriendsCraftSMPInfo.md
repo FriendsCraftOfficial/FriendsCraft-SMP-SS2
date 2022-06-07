@@ -20,19 +20,6 @@
                                          Character & System UPDATE :: FIXED
 [กดเพื่อดูอัพเดทระบบความสมดุล & ตัวละคร](https://github.com/PPekKunGz/FriendsCraft-SMP-SS2/blob/main/FriendsCraftSMPLog.md)
 
-<div align="center">
-<a target="_blank" href="https://www.youtube.com/hashtag/friendscraftsmp">
-  <img src="https://cdn.discordapp.com/attachments/966293767546085419/966293860819013642/LOGOsmp.png" align="center" width="200" height="200" />
-</a>
-<a target="_blank" href="https://www.twitch.tv/ununyy12">
-  <img src="https://cdn.discordapp.com/attachments/965961062610509867/980457577999650816/dad.png" align="center" width="140" height="150" />
-</a>
-  <br><br><br>
-<a target="_blank" href="https://www.facebook.com/limitrack.thailand">
-  <img src="https://cdn.discordapp.com/attachments/966293767546085419/969954022045921300/pr_limitrack_is_your_baremetal_w500x281.jpg" align="center" width="300" height="150" />
-</a>
-</div>
-
 ------------------------------------------------------------------
 
 ## 🖥️ Sponser DDC - Dedicated Servers 🗂️
