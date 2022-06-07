@@ -17,7 +17,7 @@
 
 # ข้อมูลคร่าวๆ | FRIENDSCRAFT SMP SEASON 2 - Logs
                                          Character & System UPDATE :: FIXED
-[กดเพื่อดูอัพเดทระบบความสมดุล & ตัวละคร](https://gist.github.com/PPekKunGz/5a51a7133c2120b8994746f9c8646773)
+[กดเพื่อดูอัพเดทระบบความสมดุล & ตัวละคร](https://github.com/PPekKunGz/FriendsCraft-SMP-SS2/blob/main/FriendsCraftSMPInfo.md)
 
 <div align="center">
 <a target="_blank" href="https://www.youtube.com/hashtag/friendscraftsmp">
