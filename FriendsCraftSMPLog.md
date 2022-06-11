@@ -140,6 +140,5 @@ Enjoy to play :)
     
 ```
   Multi-Threading 🖥️
-    -
-    -
+    - https://en.wikipedia.org/wiki/Multithreading
 ```
