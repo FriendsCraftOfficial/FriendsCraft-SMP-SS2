@@ -46,6 +46,9 @@
     <a>&nbsp;&nbsp;&nbsp;&nbsp;</a>
 <a target="_blank" href="https://github.com/LoQqvEe">
   <img src="https://avatars.githubusercontent.com/u/39002153?v=4" align="center" width="10%" />
+    <a>&nbsp;&nbsp;&nbsp;&nbsp;</a>
+<a target="_blank" href="https://github.com/tyxmn">
+  <img src="https://avatars.githubusercontent.com/u/43444421?v=4" align="center" width="10%" />
 </a>
 </a>
 </div> 
