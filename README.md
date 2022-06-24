@@ -26,9 +26,6 @@
 <a target="_blank" href="https://www.twitch.tv/ununyy12">
   <img src="https://cdn.discordapp.com/attachments/965961062610509867/980457577999650816/dad.png" align="center" width="150" height="180" />
 </a>
-  <br><br><br>
-<a target="_blank" href="https://www.facebook.com/limitrack.thailand">
-  <img src="https://cdn.discordapp.com/attachments/966293767546085419/969954022045921300/pr_limitrack_is_your_baremetal_w500x281.jpg" align="center" width="300" height="150" />
 </a>
 </div>    
 
