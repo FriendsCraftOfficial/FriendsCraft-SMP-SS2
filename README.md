@@ -18,6 +18,7 @@
 
 # 🪄 ข้อมูล/สปอนเซอร์ | SPONSER SERVER
     
+   <br><br>
 <div align="center">
 <a target="_blank" href="https://www.youtube.com/hashtag/friendscraftsmp">
   <img src="https://cdn.discordapp.com/attachments/966293767546085419/966293860819013642/LOGOsmp.png" align="center" width="200" height="200" />
