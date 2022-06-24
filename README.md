@@ -39,8 +39,6 @@
 # 🗂️ Support Project / Powered By
 
 
-### 🪄 tyxm X ViKOperationsPlusTEAMS🧪
-
 <div align="left">
 <a target="_blank" href="https://github.com/PPekKunGz">
   <img src="https://avatars.githubusercontent.com/u/54957742?v=4" align="center" width="10%" />
@@ -54,3 +52,6 @@
 </a>
 </a>
 </div> 
+
+
+### 🪄 tyxm X ViKOperationsPlusTEAMS🧪
