@@ -52,4 +52,4 @@
 </div> 
 
 
-### 🪄 tyxm X ViKOperationsPlusTEAMS🧪
+### 🪄 SycerNetwork X ViKOperationsPlusTEAMS🧪
