@@ -38,10 +38,10 @@
 ```
 ## 🟢 System Information - CPU/RAM 🏡
 ```
-🌐 CPU : Intel(R) Core(TM) i3-10105 CPU @ 3.70GHz
-🌐 RAM : DDR4 32GB non-ecc
-🌐 M.2 : NVMe SSD 256GB
-🌐 OS  : Debian GNU/Linux 11 / JVM Oracle
+🌐 CPU : Intel(R) Xeon(R) CPU E5-2690 v2 @ 3.00GHz
+🌐 RAM : DDR3 16GB
+🌐 M.2 : SSD 52GB
+🌐 OS  : Linux (amd64) version "5.14.0-70.13.1.el9_0.x86_64" / IBM Corporation
 ```
 ------------------------------------------------------------------
 
