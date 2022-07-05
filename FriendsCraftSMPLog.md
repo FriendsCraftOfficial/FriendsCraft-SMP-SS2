@@ -147,3 +147,11 @@ Enjoy to play :)
     - เพิ่มบัพ Regeneration I
     - เพิ่มบัพ Slowness II
 ```
+## 📢 *UPDATE* **06/11/2022**
+- 🖥️ **อัพเดทระบบใหม่** 🗂️
+    
+```
+  Recipe-Cache 🖥️
+    - Fix Cache
+    - Fix Mstp
+```
